@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407937677744",
+    "project_id": "grocery-pot",
+    "storage_bucket": "grocery-pot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407937677744:android:cc723e5ebbed4087bd7e75",
+        "android_client_info": {
+          "package_name": "jk.mok.grocerypot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407937677744-vmb20h4i4mf7jotph9johkpb0rkabgo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkg8TUb4ZUl8dZXHaz58AEirlOS8wt8BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407937677744-vmb20h4i4mf7jotph9johkpb0rkabgo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
